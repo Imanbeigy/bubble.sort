@@ -1,3 +1,4 @@
+// This bubble sort algorithm is efficient in only case of almost sorted array as it will avoid unnecessary comparisons.(with an example)
 #include <iostream>
 using namespace std;
 int main()
